@@ -1,0 +1,81 @@
+body {
+	text-align: center;
+	background-color: white ;
+}
+
+h3 {
+	color: #dac8a9;
+}
+
+
+
+#cover {
+	color: white;
+	text-align: center;
+	text-shadow: 1px 1px 5px black;
+	padding-top: 80px;
+	
+	background-image: url(https://static.pexels.com/photos/80841/sushi-food-dinner-chopsticks-80841-large.jpeg);
+	background-size: cover;
+	height: 500px; 
+
+}
+
+.navbar-transparent {
+  background-color: #2d3540
+}
+
+.navbar-transparent .navbar-brand,
+.navbar-transparent .navbar-nav > li > a {
+  color: white;
+}
+
+.navbar-transparent .navbar-brand:hover,
+.navbar-transparent .navbar-brand:active,
+.navbar-transparent .navbar-brand:focus,
+.navbar-transparent .navbar-nav > li > a:hover,
+.navbar-transparent .navbar-nav > li > a:active,
+.navbar-transparent .navbar-nav > li > a:focus,
+.navbar-transparent .navbar-nav > .open > a,
+.navbar-transparent .navbar-nav > .open > a:hover,
+.navbar-transparent .navbar-nav > .open > a:focus {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.vertical-spacer {
+	height: 1em;
+}
+
+.space {
+	height: 5em;
+}
+
+#mc_embed_signup_scroll {
+	background-color: #4a748c;
+}
+
+#MyFooter {
+	color: black;
+	background-color: #2d3540;
+	padding-top: 1em;
+  	padding-bottom: 1em;
+  	font-size: 10px;
+}
+
+#MyFooter a {
+	font-size: 2em;
+	color: rgb(220,220,220);
+}
+
+#MyFooter a:hover {
+	color: white;
+}
+
+.thumbnail {
+	background-color: #f0f2ef;
+}
+
+#compagnie	{
+	color : white;
+}
